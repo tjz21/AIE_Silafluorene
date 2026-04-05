@@ -1,6 +1,6 @@
 # AIE Silafluorene Calculations
 
-<img align="right" src='https://github.com/LinusP217/AIE_Silafluorene/blob/main/LockedSF_HOMO.png' width = "300" height = "284">
+<img align="right" src='https://github.com/LinusP217/AIE_Silafluorene/blob/main/LockedSF_HOMO.png' width = "225" height = "213">
 
 Computational Supporting Information for the publication 'Uncovering Structural Dynamics of Silicon-based Aggregation Induced Emission Molecules with Ultrafast Spectroscopy.' Geometry optimizations were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package with the CAM-B3LYP functional and 6-311+G(d,p) basis set. Solvation effects were included through the Polarizable Continuum Model (PCM). See below file tree for metadata.
 
